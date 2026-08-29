@@ -224,3 +224,5 @@ public final class BooleanConstantNode extends ConstantNode
         catch( StandardException se){}
 	} // end of setValue
 }
+
+// 9eff03

@@ -724,3 +724,5 @@ public class UpdateStatisticsTest extends BaseJDBCTestCase {
         }
     }
 }
+
+// 6c89c7
