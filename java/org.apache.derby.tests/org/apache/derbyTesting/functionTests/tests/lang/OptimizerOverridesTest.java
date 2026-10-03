@@ -544,3 +544,5 @@ public class OptimizerOverridesTest extends BaseJDBCTestCase {
         st.close();
     }
 }
+
+// 4948e2

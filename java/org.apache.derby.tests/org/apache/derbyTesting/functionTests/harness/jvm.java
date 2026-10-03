@@ -426,3 +426,5 @@ public abstract class jvm {
 		return resourceName.substring(resourceName.lastIndexOf("/"),resourceName.length());
 	}
 }
+
+// 35f6ae
